@@ -8,7 +8,7 @@
 ## Table of Contents
 1. [Intro](#Intro)
     - [What I Can Provide](#What-I-Can-Provide)
-    - [In-House Tech vs. Ad Agency](#In-House-Tech-vs.-Ad-Agency)
+    - [In-House Tech vs. Ad Agency](#In-House-Tech-vs-Ad-Agency)
     - [Is This Necessary?](#Is-This-Necessary?)
     - [Current State of Web Development](#Current-State-of-Web-Development)
     - [Upsides](#Upsides)
@@ -48,7 +48,7 @@
 - Create a referal system and virtual interface for partner realtors and standard realtors.
 - An updated, modernized website.
 
-### In-House Tech vs. Ad Agency:
+### In House Tech vs Ad Agency:
 - The company will have full control and profits over the data. Being able to sell the data to other companies (realtors, investors, ad agencies, etc...).
 
 - The ad agencies can not function without the data that the company provides. Hiring a competent ad agency will come at a cost of purchasing the data from the another similar company. At scale this will be a major expense with no way to profit other than their success.
