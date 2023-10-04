@@ -54,7 +54,7 @@
 - The ad agencies can not function without the data that the company provides. Hiring a competent ad agency will come at a cost of purchasing the data from the another similar company. At scale this will be a major expense with no way to profit other than their success.
 - Scale, the company will be able to expand to a national market. Ad agencies will be limited to the local market.
 
-### Is This Necessary?
+### Is This Necessary?:
 - Yes and no, the barrier to entry into a national market is applying analytics and data correctly and resourcefully.
 
 - For a majority of companies, and even this company as of now this is overkill.
